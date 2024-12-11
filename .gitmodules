@@ -1,9 +1,10 @@
 [submodule "lambda_function_as_image/flipkart_data_ingestion"]
 	path = lambda_function_as_image/flipkart_data_ingestion
-	url = https://github.com/ANGELOANTU7/flipkart_data_ingestion.git
+	url = git@github.com:ANGELOANTU7/flipkart_data_ingestion.git
 [submodule "lambda_function_as_image/flipkart_preview_creator"]
 	path = lambda_function_as_image/flipkart_preview_creator
-	url = https://github.com/ANGELOANTU7/flipkart_preview_creator.git
+	url = git@github.com:ANGELOANTU7/flipkart_preview_creator.git
 [submodule "lambda_function_as_image/flipkart_get_dataset_details"]
 	path = lambda_function_as_image/flipkart_get_dataset_details
-	url = https://github.com/ANGELOANTU7/flipkart_get_dataset_details.git
+	url = git@github.com:ANGELOANTU7/flipkart_get_dataset_details.git
+
